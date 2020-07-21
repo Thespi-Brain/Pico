@@ -1,7 +1,7 @@
 # Pico
 
 # This is a one level (intended to have more levels in the future) game paying homage to old school computer games like Pacman
-# The story is as follows: PicoGirl, a bot, must fight Python the snake to get to the next level
+# The story is as follows: Pico, a brainbot, must fight Python the snake to get to the next level
 
 # The "left" and "right" arrow keys move PicoGirl and the "a" and "s" keys move Python the Snake
 
